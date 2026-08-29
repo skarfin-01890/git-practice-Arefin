@@ -1,2 +1,8 @@
+from datetime import date
+from utils import add, subtract
+
 print("My name is Arefin")
-print("Today's date is August 29, 2026")
+print("Today's date is", date.today())
+
+print("Addition:", add(10, 5))
+print("Subtraction:", subtract(10, 5))
