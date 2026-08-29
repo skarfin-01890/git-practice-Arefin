@@ -20,3 +20,10 @@ This project is created to practice Git and GitHub.
 * Python
 * Git
 * GitHub
+Calculator Usage
+
+## The calculator supports three basic operations:
+
+Addition: add(a, b)
+Subtraction: subtract(a, b)
+Multiplication: multiply(a, b)
